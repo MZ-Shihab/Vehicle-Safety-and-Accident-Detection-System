@@ -1,0 +1,25 @@
+# Compiled files
+*.bin
+*.elf
+*.hex
+
+# Arduino build folder
+build/
+*.pio/
+.pio/
+
+# VS Code / PlatformIO
+.vscode/
+.pioenvs/
+.piolibdeps/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Arduino libraries compiled cache
+*.a
